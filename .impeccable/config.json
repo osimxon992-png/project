@@ -1,0 +1,17 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "gradient-text",
+        "value": "*",
+        "files": [
+          "app/landing.css"
+        ],
+        "createdAt": "2026-10-14T15:05:38.927Z",
+        "reason": "model decision: .mv-marker is a solid white fill-sweep text reveal replicating alche.studio MissionVision__marker, which the user asked to match"
+      }
+    ]
+  }
+}
